@@ -1,0 +1,2 @@
+# mypool
+project,code,ideas
